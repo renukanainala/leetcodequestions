@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/renukanainala/leetcodequestions/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/renukanainala/leetcodequestions/tree/master/0507-perfect-number) |
 ## Divide and Conquer
