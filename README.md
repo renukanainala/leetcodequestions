@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/renukanainala/leetcodequestions/tree/master/0507-perfect-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
