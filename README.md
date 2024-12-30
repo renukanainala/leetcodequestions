@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
