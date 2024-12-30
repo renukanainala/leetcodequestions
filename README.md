@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
