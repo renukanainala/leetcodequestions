@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
 ## Graph
 |  |
 | ------- |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
