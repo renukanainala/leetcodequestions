@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
