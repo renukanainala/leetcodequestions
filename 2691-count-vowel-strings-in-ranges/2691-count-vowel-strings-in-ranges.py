@@ -2,16 +2,14 @@ class Solution:
     def vowelStrings(self, words: List[str], q: List[List[int]]) -> List[int]:
         v='aeiou'
         p=[0]*len(words)
-        if words[0][0] in v and words[0][-1] in v:
-            p[0]=1
-        for i in range(1,len(words)):
-            if words[i][0] in v and words[i][-1] in v:
-                p[i]=p[i-1]+1
-            else:
-                p[i]=p[i-1]+0
-        
+        s=0
+        for i in range(0,len(words)):
+            cur=words[i]
+            if cur[0] in v and cur[-1] in v:
+               s+=1
+            p[i]=s
         ans=[]
-        for u,v in q:
+        for u,v in q: 
             if u!=0:
                 ans.append(p[v]-p[u-1])
             else:
