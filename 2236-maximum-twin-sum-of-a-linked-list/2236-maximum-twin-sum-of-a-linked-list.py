@@ -30,5 +30,6 @@ class Solution:
             s=max(s,temp1.val+temp2.val)
             temp1=temp1.next
             temp2=temp2.next
+        reverse(head2)
         return s
         
