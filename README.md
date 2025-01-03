@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/renukanainala/leetcodequestions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Queue
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
