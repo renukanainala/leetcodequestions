@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/renukanainala/leetcodequestions/tree/master/0263-ugly-number) |
+| [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/renukanainala/leetcodequestions/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/renukanainala/leetcodequestions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+| [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0838-design-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
