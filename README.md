@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/renukanainala/leetcodequestions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
 | [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0838-design-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/0838-design-linked-list) |
