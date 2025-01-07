@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2159-two-out-of-three](https://github.com/renukanainala/leetcodequestions/tree/master/2159-two-out-of-three) |
 | [2358-number-of-ways-to-split-array](https://github.com/renukanainala/leetcodequestions/tree/master/2358-number-of-ways-to-split-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
