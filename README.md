@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/renukanainala/leetcodequestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/renukanainala/leetcodequestions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/renukanainala/leetcodequestions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
