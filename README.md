@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
