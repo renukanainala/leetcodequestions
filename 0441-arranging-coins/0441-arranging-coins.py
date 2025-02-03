@@ -1,10 +1,9 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
+        r=1
         c=0
-        i=1
-        j=1
-        while j<=n:
+        while n>=r:
+            r+=1
             c+=1
-            i+=1
-            j+=i
+            n=n-r
         return c
