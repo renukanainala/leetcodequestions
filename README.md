@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/renukanainala/leetcodequestions/tree/master/1619-path-crossing) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/renukanainala/leetcodequestions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/renukanainala/leetcodequestions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1619-path-crossing](https://github.com/renukanainala/leetcodequestions/tree/master/1619-path-crossing) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/renukanainala/leetcodequestions/tree/master/2159-two-out-of-three) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
