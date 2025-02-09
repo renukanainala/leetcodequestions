@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/renukanainala/leetcodequestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/renukanainala/leetcodequestions/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/renukanainala/leetcodequestions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/renukanainala/leetcodequestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/renukanainala/leetcodequestions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/renukanainala/leetcodequestions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/renukanainala/leetcodequestions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/renukanainala/leetcodequestions/tree/master/2159-two-out-of-three) |
+| [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/renukanainala/leetcodequestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/renukanainala/leetcodequestions/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/renukanainala/leetcodequestions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
