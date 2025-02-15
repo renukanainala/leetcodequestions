@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/renukanainala/leetcodequestions/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
