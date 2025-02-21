@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/renukanainala/leetcodequestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/renukanainala/leetcodequestions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/renukanainala/leetcodequestions/tree/master/3429-special-array-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2509-minimize-xor) |
+| [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Tree
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/renukanainala/leetcodequestions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
 | ------- |
