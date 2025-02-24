@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/renukanainala/leetcodequestions/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
+| [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/renukanainala/leetcodequestions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/renukanainala/leetcodequestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
