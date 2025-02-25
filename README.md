@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/renukanainala/leetcodequestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/renukanainala/leetcodequestions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/renukanainala/leetcodequestions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/renukanainala/leetcodequestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
