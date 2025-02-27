@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1364-tuple-with-same-product](https://github.com/renukanainala/leetcodequestions/tree/master/1364-tuple-with-same-product) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/renukanainala/leetcodequestions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/renukanainala/leetcodequestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1364-tuple-with-same-product](https://github.com/renukanainala/leetcodequestions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
