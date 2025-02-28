@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
