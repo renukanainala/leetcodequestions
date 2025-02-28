@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/renukanainala/leetcodequestions/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/renukanainala/leetcodequestions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/renukanainala/leetcodequestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
