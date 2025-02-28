@@ -3,10 +3,15 @@ class Solution:
         s=set()
         n=len(g)
         def bfs(i):
+            q=collections.deque()
+            q.append(i)
             s.add(i)
-            for k in range(n):
-                if g[i][k]==1 and k not in s:
-                    bfs(k)
+            while q:
+                i=q.popleft()
+                for k in range(n):
+                    if g[i][k]==1 and k not in s:
+                        q.append(k)
+                        s.add(k)
         c=0
 
         for i in range(n):
