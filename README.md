@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/renukanainala/leetcodequestions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/renukanainala/leetcodequestions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/renukanainala/leetcodequestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2792-neighboring-bitwise-xor) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/renukanainala/leetcodequestions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/renukanainala/leetcodequestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/renukanainala/leetcodequestions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
