@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
+| [0434-number-of-segments-in-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
