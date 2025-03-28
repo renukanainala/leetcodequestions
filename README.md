@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/renukanainala/leetcodequestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/renukanainala/leetcodequestions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/renukanainala/leetcodequestions/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/renukanainala/leetcodequestions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/renukanainala/leetcodequestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/renukanainala/leetcodequestions/tree/master/3463-alternating-groups-i) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/renukanainala/leetcodequestions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3430-count-days-without-meetings](https://github.com/renukanainala/leetcodequestions/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
