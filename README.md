@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0434-number-of-segments-in-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/renukanainala/leetcodequestions/tree/master/0459-repeated-substring-pattern) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/renukanainala/leetcodequestions/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/renukanainala/leetcodequestions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
