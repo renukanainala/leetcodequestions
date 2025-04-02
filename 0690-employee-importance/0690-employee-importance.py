@@ -11,16 +11,14 @@ class Solution:
     def getImportance(self, e: List['Employee'], id: int) -> int:
         h={}
         for e1 in e:
-            h[e1.id]=e1.importance
-        h1={}
-        for e1 in e:
-            h1[e1.id]=e1.subordinates
+            h[e1.id]=e1
+        
         c=0
         q=deque()
         q.append(id)
         while q:
             n=q.popleft()
-            c+=h[n]
-            for j in h1[n]:
+            c+=h[n].importance
+            for j in h[n].subordinates:
                 q.append(j)
         return c
