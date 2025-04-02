@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/renukanainala/leetcodequestions/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/renukanainala/leetcodequestions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/renukanainala/leetcodequestions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/renukanainala/leetcodequestions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
+| [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/renukanainala/leetcodequestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/renukanainala/leetcodequestions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
