@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/renukanainala/leetcodequestions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/renukanainala/leetcodequestions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/renukanainala/leetcodequestions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
