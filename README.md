@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0434-number-of-segments-in-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/renukanainala/leetcodequestions/tree/master/0459-repeated-substring-pattern) |
+| [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
+| [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
