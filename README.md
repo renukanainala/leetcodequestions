@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/renukanainala/leetcodequestions/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/renukanainala/leetcodequestions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/renukanainala/leetcodequestions/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/renukanainala/leetcodequestions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/renukanainala/leetcodequestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/renukanainala/leetcodequestions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/renukanainala/leetcodequestions/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/renukanainala/leetcodequestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Interactive
 |  |
