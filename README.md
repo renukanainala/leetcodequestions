@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/renukanainala/leetcodequestions/tree/master/3463-alternating-groups-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/renukanainala/leetcodequestions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2035-count-sub-islands](https://github.com/renukanainala/leetcodequestions/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/renukanainala/leetcodequestions/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/renukanainala/leetcodequestions/tree/master/2035-count-sub-islands) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/renukanainala/leetcodequestions/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/renukanainala/leetcodequestions/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -444,11 +448,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/renukanainala/leetcodequestions/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Interactive
 |  |
 | ------- |
