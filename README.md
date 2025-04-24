@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/renukanainala/leetcodequestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/renukanainala/leetcodequestions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/renukanainala/leetcodequestions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/renukanainala/leetcodequestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/renukanainala/leetcodequestions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -473,5 +475,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/renukanainala/leetcodequestions/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
