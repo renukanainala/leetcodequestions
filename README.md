@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/renukanainala/leetcodequestions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/renukanainala/leetcodequestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/renukanainala/leetcodequestions/tree/master/0198-house-robber) |
