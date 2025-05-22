@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0860-design-circular-queue](https://github.com/renukanainala/leetcodequestions/tree/master/0860-design-circular-queue) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
+| [0967-minimum-falling-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0967-minimum-falling-path-sum) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/renukanainala/leetcodequestions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/renukanainala/leetcodequestions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/renukanainala/leetcodequestions/tree/master/1073-number-of-enclaves) |
 | [1117-as-far-from-land-as-possible](https://github.com/renukanainala/leetcodequestions/tree/master/1117-as-far-from-land-as-possible) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/renukanainala/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
+| [0967-minimum-falling-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0967-minimum-falling-path-sum) |
 | [1117-as-far-from-land-as-possible](https://github.com/renukanainala/leetcodequestions/tree/master/1117-as-far-from-land-as-possible) |
 ## Greedy
 |  |
