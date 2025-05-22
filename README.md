@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
+| [0503-next-greater-element-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/renukanainala/leetcodequestions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/renukanainala/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/renukanainala/leetcodequestions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/renukanainala/leetcodequestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/renukanainala/leetcodequestions/tree/master/0937-online-stock-span) |
 ## Graph
 |  |
