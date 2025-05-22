@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/renukanainala/leetcodequestions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/renukanainala/leetcodequestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0056-merge-intervals) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/renukanainala/leetcodequestions/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [2107-find-unique-binary-string](https://github.com/renukanainala/leetcodequestions/tree/master/2107-find-unique-binary-string) |
 ## Math
