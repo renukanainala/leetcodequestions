@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/renukanainala/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/renukanainala/leetcodequestions/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0503-next-greater-element-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/renukanainala/leetcodequestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0967-minimum-falling-path-sum) |
 | [1117-as-far-from-land-as-possible](https://github.com/renukanainala/leetcodequestions/tree/master/1117-as-far-from-land-as-possible) |
