@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/renukanainala/leetcodequestions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/0120-triangle) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/renukanainala/leetcodequestions/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
@@ -523,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/renukanainala/leetcodequestions/tree/master/3463-alternating-groups-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
