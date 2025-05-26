@@ -1,17 +1,11 @@
 class Solution:
-    def maxProfit(self, p: List[int]) -> int:
-        '''
-        k=min(prices)
-        s=prices.index(k)
-        f=[]
-        for j in range(s,len(prices)):
-            f.append(prices[j])
-        l=max(f)
-        return l-k
-        '''
-        d=p[0] #to buy
-        profit=0
-        for i in range(1,len(p)):
-            d=min(d,p[i]) #tobuy
-            profit=(max(profit,p[i]-d))
-        return profit
+    def maxProfit(self, ar: List[int]) -> int:
+        buy=ar[0]
+        pro=float('-inf')
+        for i in range(1,len(ar)):
+            if ar[i]<buy:
+                buy=ar[i]
+            else:
+                pro=max(pro,ar[i]-buy)
+        return 0 if pro==float('-inf') else pro
+
