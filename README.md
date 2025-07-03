@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/renukanainala/leetcodequestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/renukanainala/leetcodequestions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/renukanainala/leetcodequestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/renukanainala/leetcodequestions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/renukanainala/leetcodequestions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
