@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/renukanainala/leetcodequestions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/renukanainala/leetcodequestions/tree/master/0733-flood-fill) |
+| [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
 | [0797-rabbits-in-forest](https://github.com/renukanainala/leetcodequestions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/renukanainala/leetcodequestions/tree/master/0837-most-common-word) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0434-number-of-segments-in-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/renukanainala/leetcodequestions/tree/master/0459-repeated-substring-pattern) |
+| [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/renukanainala/leetcodequestions/tree/master/0837-most-common-word) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
+| [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
 | [0797-rabbits-in-forest](https://github.com/renukanainala/leetcodequestions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/renukanainala/leetcodequestions/tree/master/0837-most-common-word) |
