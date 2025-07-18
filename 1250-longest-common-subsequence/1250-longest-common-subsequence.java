@@ -7,9 +7,10 @@ class Solution {
             return dp[i][j];
         }
         if(s.charAt(i)==t.charAt(j)){
-           return  1+check(i-1,j-1,s,t,dp);
+           dp[i][j]= 1+check(i-1,j-1,s,t,dp);
         }
-        dp[i][j]= Math.max(check(i-1,j,s,t,dp),check(i,j-1,s,t,dp));
+        else{
+        dp[i][j]= Math.max(check(i-1,j,s,t,dp),check(i,j-1,s,t,dp));}
         return dp[i][j];
     }
     public int longestCommonSubsequence(String text1, String text2) {
