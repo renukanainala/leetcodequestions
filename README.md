@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/renukanainala/leetcodequestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/renukanainala/leetcodequestions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/renukanainala/leetcodequestions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/renukanainala/leetcodequestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/renukanainala/leetcodequestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/renukanainala/leetcodequestions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/renukanainala/leetcodequestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1619-path-crossing](https://github.com/renukanainala/leetcodequestions/tree/master/1619-path-crossing) |
+| [1813-maximum-erasure-value](https://github.com/renukanainala/leetcodequestions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/renukanainala/leetcodequestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/renukanainala/leetcodequestions/tree/master/2107-find-unique-binary-string) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/renukanainala/leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0966-binary-subarrays-with-sum) |
+| [1813-maximum-erasure-value](https://github.com/renukanainala/leetcodequestions/tree/master/1813-maximum-erasure-value) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/renukanainala/leetcodequestions/tree/master/3463-alternating-groups-i) |
 ## Combinatorics
