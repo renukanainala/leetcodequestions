@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/renukanainala/leetcodequestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/renukanainala/leetcodequestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1813-maximum-erasure-value](https://github.com/renukanainala/leetcodequestions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/renukanainala/leetcodequestions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/renukanainala/leetcodequestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/renukanainala/leetcodequestions/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/renukanainala/leetcodequestions/tree/master/0983-validate-stack-sequences) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/renukanainala/leetcodequestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/renukanainala/leetcodequestions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/renukanainala/leetcodequestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2551-apply-operations-to-an-array) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/renukanainala/leetcodequestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/renukanainala/leetcodequestions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Heap (Priority Queue)
 |  |
