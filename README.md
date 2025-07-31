@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/renukanainala/leetcodequestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/renukanainala/leetcodequestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/renukanainala/leetcodequestions/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/renukanainala/leetcodequestions/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/renukanainala/leetcodequestions/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/renukanainala/leetcodequestions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/renukanainala/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/renukanainala/leetcodequestions/tree/master/0690-employee-importance) |
 | [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
