@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/renukanainala/leetcodequestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/renukanainala/leetcodequestions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/renukanainala/leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/renukanainala/leetcodequestions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/renukanainala/leetcodequestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/renukanainala/leetcodequestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/renukanainala/leetcodequestions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/renukanainala/leetcodequestions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/renukanainala/leetcodequestions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/renukanainala/leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/renukanainala/leetcodequestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
