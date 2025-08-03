@@ -5,12 +5,13 @@ class Solution {
         for (int i: bloomDay){
             if (i<=v){
                 c+=1;
-                if (c==k){
-                m-=1;
-                c=0;
-            }
+                
             }
             else{
+                c=0;
+            }
+            if (c==k){
+                m-=1;
                 c=0;
             }
            
