@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/renukanainala/leetcodequestions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/renukanainala/leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/renukanainala/leetcodequestions/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1813-maximum-erasure-value](https://github.com/renukanainala/leetcodequestions/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/renukanainala/leetcodequestions/tree/master/1833-find-the-highest-altitude) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/renukanainala/leetcodequestions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/renukanainala/leetcodequestions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/renukanainala/leetcodequestions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/renukanainala/leetcodequestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/renukanainala/leetcodequestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
