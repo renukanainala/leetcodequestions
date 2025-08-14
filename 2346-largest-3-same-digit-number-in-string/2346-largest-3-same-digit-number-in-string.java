@@ -19,6 +19,7 @@ class Solution {
         }
         if (maxi==-1){return "";}
         char m=(char) (maxi+'0');
-        return ""+m+m+m;
+        return ""+m+m+m; // this is sapace:o(n)->can be reduced to o(1) instead of char array.. directly using charAt(1)
+        //this is time :o(n)
     }
 }
