@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/renukanainala/leetcodequestions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/renukanainala/leetcodequestions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/renukanainala/leetcodequestions/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/renukanainala/leetcodequestions/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/renukanainala/leetcodequestions/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/renukanainala/leetcodequestions/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/renukanainala/leetcodequestions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/renukanainala/leetcodequestions/tree/master/0507-perfect-number) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/renukanainala/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/renukanainala/leetcodequestions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/renukanainala/leetcodequestions/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/renukanainala/leetcodequestions/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
