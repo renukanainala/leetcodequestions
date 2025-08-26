@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/renukanainala/leetcodequestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/renukanainala/leetcodequestions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/renukanainala/leetcodequestions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/renukanainala/leetcodequestions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/3321-type-of-triangle) |
