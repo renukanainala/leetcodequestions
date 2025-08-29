@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/renukanainala/leetcodequestions/tree/master/0257-binary-tree-paths) |
 | [0434-number-of-segments-in-a-string](https://github.com/renukanainala/leetcodequestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/renukanainala/leetcodequestions/tree/master/0459-repeated-substring-pattern) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/renukanainala/leetcodequestions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/renukanainala/leetcodequestions/tree/master/0837-most-common-word) |
