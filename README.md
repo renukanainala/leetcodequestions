@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/renukanainala/leetcodequestions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/renukanainala/leetcodequestions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/renukanainala/leetcodequestions/tree/master/0837-most-common-word) |
+| [0851-goat-latin](https://github.com/renukanainala/leetcodequestions/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/renukanainala/leetcodequestions/tree/master/0857-positions-of-large-groups) |
 | [0952-word-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/0952-word-subsets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/renukanainala/leetcodequestions/tree/master/0990-verifying-an-alien-dictionary) |
