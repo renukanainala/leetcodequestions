@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/renukanainala/leetcodequestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/renukanainala/leetcodequestions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/renukanainala/leetcodequestions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/renukanainala/leetcodequestions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/renukanainala/leetcodequestions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/renukanainala/leetcodequestions/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/renukanainala/leetcodequestions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/renukanainala/leetcodequestions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/renukanainala/leetcodequestions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/renukanainala/leetcodequestions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/renukanainala/leetcodequestions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/renukanainala/leetcodequestions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/renukanainala/leetcodequestions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/renukanainala/leetcodequestions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/renukanainala/leetcodequestions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/renukanainala/leetcodequestions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/renukanainala/leetcodequestions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/renukanainala/leetcodequestions/tree/master/3430-count-days-without-meetings) |
@@ -646,4 +649,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/renukanainala/leetcodequestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/renukanainala/leetcodequestions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/renukanainala/leetcodequestions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/renukanainala/leetcodequestions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
