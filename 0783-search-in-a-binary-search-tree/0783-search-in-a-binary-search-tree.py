@@ -17,10 +17,6 @@ class Solution:
             if root.val==k:
                 cur=root
                 break
-            elif root.val>k:
-                root=root.left
-            else:
-                root=root.right
-        ans=[cur]
-        #preorder(cur,ans)
+            root=root.left if root.val>k else root.right 
+        
         return cur
